@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amazon_order_id: MyString
+  purchase_date: MyString
+  amount: MyString
+  buyer_name: MyString
+
+two:
+  amazon_order_id: MyString
+  purchase_date: MyString
+  amount: MyString
+  buyer_name: MyString
